@@ -1,0 +1,18 @@
+body{
+	background-image: url('../images/1.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.trnasparent{
+	background: transparent;
+	color: white;
+}
+
+.trnasparent-title{
+	color: white !important;
+}
+
+.title-color{
+	color: black;
+}
